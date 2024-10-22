@@ -2,3 +2,15 @@
     width: 300px;
     height: 300px;
 }
+
+.bg-mint{
+    background-color: rgb(84, 216, 148);
+}
+
+.bg-dark-mint{
+    background-color: rgb(14, 157, 88);
+}
+
+.bg-tomato{
+    background-color: red;
+}
