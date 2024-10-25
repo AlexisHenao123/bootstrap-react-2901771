@@ -14,3 +14,19 @@
 .bg-tomato{
     background-color: red;
 }
+
+.imagen{
+    font-size: 107px;
+}
+
+.bg-pink{
+    background-color: rgb(255, 0, 187);
+}
+
+.bg-dark-orange{
+    background-color: rgb(219, 58, 0);
+}
+
+.bg-orange{
+    background-color: darkorange;
+}
