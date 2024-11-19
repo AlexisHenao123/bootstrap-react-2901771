@@ -15,23 +15,20 @@
     align-items: center;
     color: white;
 }
-.interior1{
-    height: 214px;
-}
-
-.interior2{
-    height: 214px;
-}
-
-.interior3{
-    height: 214px;
-}
-
-.interior4{
-    height: 214px;
-}
-
 .anuncio{
     align-items: center;
+}
+
+.bg-sombra{
+    background-color: #83dbb4;
+}
+
+.texto{
+    padding: 8px;
+    border-radius: 15px;
+}
+.py-6 {
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 
